@@ -10,6 +10,10 @@ This project showcases a comprehensive Power BI dashboard for visualizing H1B vi
 
 ## Data Source
 The dataset used for this dashboard is obtained from the United States Citizenship and Immigration Services (USCIS), detailing various aspects of H1B visa applications.
+The cleaned dataset for H1B visa applications from 2009 to 2023 can be found on Kaggle:
+
+[USCIS H1B Data - Cleaned (2009 - 2023)](https://www.kaggle.com/datasets/lokesh97jain/uscis-h1b-data-cleaned-2009-2023)
+
 
 ## Dashboard Sections
 
