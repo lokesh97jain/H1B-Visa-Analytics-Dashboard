@@ -42,3 +42,7 @@ Data model showcasing relationships between the entities.
 ## Dashboard View -
 ![image](https://github.com/lokesh97jain/H1B-Visa-Analytics-Dashboard/assets/44944748/abddb6b4-ebf3-4aac-baf7-9bdd57c70b6f)
 ![image](https://github.com/lokesh97jain/H1B-Visa-Analytics-Dashboard/assets/44944748/8edf3ab7-d4ce-414b-ae6e-107a94a24c36)
+
+### Model View 
+![image](https://github.com/lokesh97jain/H1B-Visa-Analytics-Dashboard/assets/44944748/8637bb02-c0aa-4332-95af-e799d08b1f8f)
+
